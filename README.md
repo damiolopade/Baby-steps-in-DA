@@ -1,1 +1,13 @@
-# Baby-steps-in-DA
+# Project name Baby-steps-in-DA
+
+...
+#Project Objectives: Problem Statement
+
+...
+#Data Sourcing
+
+...
+#Data Transformation
+
+...
+#Find and Recommendation
